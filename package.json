@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-on-fire-starter",
+  "version": "1.0.0",
+  "description": "A starter for GatsbyJS websites",
+  "main": "gatsby-config.js",
+  "author": "Mate Mišlov",
+  "license": "MIT",
+  "dependencies": {
+    "@gatsbyonfire/tailwind": "^0.0.1",
+    "gatsby": "^2.17.9",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
